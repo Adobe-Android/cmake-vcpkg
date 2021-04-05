@@ -1,2 +1,2 @@
 # cmake example
-An example CMake project to be used as a template
+An example CMake project leveraging vcpkg to be used as a template
